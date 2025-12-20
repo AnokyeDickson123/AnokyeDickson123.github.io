@@ -1,1 +1,7 @@
-# AnokyeDickson123.github.io
+# Data Sceintist
+
+### EDUCALTION
+
+
+### WORK EXPERIENCE
+- ABNMA
