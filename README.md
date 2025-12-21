@@ -1,42 +1,36 @@
-# Data Scientist
+# Data Scientist & Mathematician
 
-I am a data scientist with a strong background in applied mathematics, stochastic modeling, and machine learning. My interests lie in using mathematically grounded models and data-driven methods to solve real-world problems, particularly in finance and risk analysis.
+I am a Data Scientist and Mathematician with a strong foundation in applied and computational mathematics, and machine learning. My work focuses on combining mathematically rigorous models with data-driven techniques to analyze complex systems and extract meaningful insights.
 
 ---
 
 ## Education
 
-- **Degree:** [Your Degree, e.g., BSc / MSc in Mathematics / Applied Mathematics]  
-  **Institution:** [University Name]  
-**Focus:** Stochastic processes, numerical methods, machine learning, and data analysis  
+- Msc., Mathematical Science | African Institute for Mathematical Sciences(AIMS), Ghana (June, 2025)
+- Bsc., Mathematics | Kwame Nkrumah University of Science and Technology (KNUST), Ghana (November, 2023)
 
 ---
 
 ## Work Experience
+- Teaching and Research Assistant, Department of Mathematics, KNUST (September 2023 - September 2024)
+- Intern, Ablekuma-North Municipal Assembly, Accra
 
-### Ablekuma North Municipal Assembly (ABNMA)
-**Role:** [Your Role / Internship Position]  
-- Supported data collection, analysis, and reporting for municipal operations  
-- Assisted in applying quantitative and analytical methods to real-world administrative problems  
-- Collaborated with team members to improve data organization and decision-making processes  
 
 ---
 
 ## Skills
 
-- **Programming:** Python, MATLAB  
-- **Machine Learning:** LSTM, time-series modeling  
-- **Mathematics:** Stochastic processes, volatility modeling, numerical methods  
-- **Data Analysis:** Statistical modeling, forecasting, performance evaluation  
+- **Programming:** Matlab, Python, C, R, SQL.
+- **Data Science and Machine Learning:** Pandas, NumPy, Scikit-learn, Power BI, Excel, NetworkX, Regression, Classification, Clustering, LSTM, Time Series Forecasting.  
+- **Mathematical Tools:** Optimization, Statistics, Differential Equations, Network Science.  
+- **Operating Systems:** Linux (Ubuntu), Windows 
 
 ---
 
 ## Research Interests
 
-- Hybrid stochastic–machine learning models  
-- Financial volatility and crash risk prediction  
-- High-frequency time-series analysis  
-- Applied mathematics for real-world systems  
+Numerical methods for non-linear and multiscale partial differential equations, Stochastic processes, Numerical Anal-
+ysis, Applied Mathematics, Optimization, Machine Learning, Scientific Computing, and Mathematical Biology.
 
 ---
 
