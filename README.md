@@ -43,6 +43,6 @@ ysis, Applied Mathematics, Optimization, Machine Learning, Scientific Computing,
 
 ## Contact
 
-- **GitHub:** [your GitHub link]  
-- **Email:** [your email address]  
-- **LinkedIn:** [optional]
+- **GitHub:** [[my GitHub link]](https://github.com/AnokyeDickson123)  
+- **Email:** [my email address](anokyedickson.official@gmail.com)
+- **LinkedIn:** [my LinkedIn](www.linkedin.com/in/dickson-anokye-526a70278)
