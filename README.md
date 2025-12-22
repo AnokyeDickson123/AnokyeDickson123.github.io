@@ -41,8 +41,16 @@ ysis, Applied Mathematics, Optimization, Machine Learning, Scientific Computing,
 
 ---
 
+
+## Publications
+**Incorporating mean-field velocity difference in a continuum macroscopic traffic flow model for adverse road conditions**
+- [[Link]](https://ojs.lib.uwo.ca/index.php/mase/article/view/18033)
+
+
+
+
 ## Contact
 
 - **GitHub:** [[my GitHub link]](https://github.com/AnokyeDickson123)  
-- **Email:** [my email address](anokyedickson.official@gmail.com)
-- **LinkedIn:** [my LinkedIn](www.linkedin.com/in/dickson-anokye-526a70278)
+- **Email:** [[my email address]](anokyedickson.official@gmail.com)
+- **LinkedIn:** [[my LinkedIn]](www.linkedin.com/in/dickson-anokye-526a70278)
