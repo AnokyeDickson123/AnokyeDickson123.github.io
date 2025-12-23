@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+img[alt="Logo"] {
+  width: 120px;       /* adjust size */
+  height: 120px;
+  border-radius: 50%; /* makes it round */
+  object-fit: cover;
+}
