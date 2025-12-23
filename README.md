@@ -38,16 +38,16 @@ ysis, Applied Mathematics, Optimization, Machine Learning, Scientific Computing,
 
 - **Hybrid Stochastic–AI Volatility Forecasting**  
   Lévy-driven stochastic volatility models integrated with LSTM networks for crash risk prediction.
-
+-  [[Link]](https://github.com/AnokyeDickson123/Stochastically_driven_hybrid_AI)
 ---
 
 
 ## Publications
-**Incorporating mean-field velocity difference in a continuum macroscopic traffic flow model for adverse road conditions**
+- **Incorporating mean-field velocity difference in a continuum macroscopic traffic flow model for adverse road conditions**
 - [[Link]](https://ojs.lib.uwo.ca/index.php/mase/article/view/18033)
 
 
-
+---
 
 ## Contact
 
